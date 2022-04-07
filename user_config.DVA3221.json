@@ -3,10 +3,10 @@
     "vid": "0x46f4",
     "pid": "0x0001",
     "SasIdxMap": "0",
-    "SataPortMap": "48", 
-    "DiskIdxMap": "0004",
-    "sn": "1130LWN123456",
-    "mac1": "001132123456"
+    "SataPortMap": "1", 
+    "DiskIdxMap": "00",
+    "sn": "2150SJRTTAASY",
+    "mac1": "001132982F2A"
   },
   "synoinfo": {
     "supportsystemperature": "no",
